@@ -1,3 +1,4 @@
+import { Paper, Table, TableBody, TableContainer, TableHead, TableRow, TableCell } from '@mui/material'
 import React from 'react'
 import movies from '../../content/movies.json'
 import MovieTableRow from './MovieTableRow'
@@ -16,23 +17,25 @@ export interface Movie {
 function MovieTable() {
 
     return (
-        <div style={{display: 'flex'}}>
-            <table className="styled-table">
-                <thead>
-                    <tr>
-                        <th>Title</th>
-                        <th>Release Year</th>
-                        <th>Chronological Year</th>
-                        <th>Release Order</th>
-                        <th>Chronological Order</th>
-                        <th>Rating</th>
-                        <th>Tags</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    { movies.map(movie => <MovieTableRow movie={movie} />) }
-                </tbody>
-            </table>
+        <div style={{ display: 'flex' }}>
+            <TableContainer component={Paper}>
+                <Table sx={{ minWidth: 650 }}>
+                    <TableHead>
+                        <TableRow>
+                            <TableCell>Title</TableCell>
+                            <TableCell>Release Year</TableCell>
+                            <TableCell>Chronological Year</TableCell>
+                            <TableCell>Release Order</TableCell>
+                            <TableCell>Chronological Order</TableCell>
+                            <TableCell>Rating</TableCell>
+                            <TableCell>Tags</TableCell>
+                        </TableRow>
+                    </TableHead>
+                    <TableBody>
+                        {movies.map(movie => <MovieTableRow movie={movie} />)}
+                    </TableBody>
+                </Table>
+            </TableContainer>
         </div>
     )
 }

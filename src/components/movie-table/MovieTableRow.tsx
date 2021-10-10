@@ -1,3 +1,4 @@
+import { TableCell, TableRow } from '@mui/material'
 import React from 'react'
 import { Movie } from './MovieTable'
 
@@ -16,15 +17,15 @@ export interface MovieTableRowProps {
    - Tags */
 function MovieTableRow({ movie }: MovieTableRowProps) {
     return (
-        <tr>
-            <td>{movie.title}</td>
-            <td>{movie.releaseYear}</td>
-            <td>{movie.chronologicalYear}</td>
-            <td>{movie.releaseOrder}</td>
-            <td>{movie.chronologicalOrder}</td>
-            <td>{movie.rating}</td>
-            <td>{movie.tags}</td>
-        </tr>
+        <TableRow>
+            <TableCell>{movie.title}</TableCell>
+            <TableCell>{movie.releaseYear}</TableCell>
+            <TableCell>{movie.chronologicalYear}</TableCell>
+            <TableCell>{movie.releaseOrder}</TableCell>
+            <TableCell>{movie.chronologicalOrder}</TableCell>
+            <TableCell>{movie.rating}</TableCell>
+            <TableCell>{movie.tags}</TableCell>
+        </TableRow>
     )
 }
 
