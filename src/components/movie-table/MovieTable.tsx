@@ -1,5 +1,4 @@
 import { Paper, Table, TableBody, TableContainer, TableHead, TableRow, TableCell } from '@mui/material'
-import React from 'react'
 import movies from '../../content/movies.json'
 import MovieTableRow from './MovieTableRow'
 import './Table.css'

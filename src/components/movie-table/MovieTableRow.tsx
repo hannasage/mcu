@@ -1,5 +1,4 @@
 import { TableCell, TableRow } from '@mui/material'
-import React from 'react'
 import { Movie } from './MovieTable'
 
 export interface MovieTableRowProps {
