@@ -1,0 +1,225 @@
+[{
+    "title": "Iron Man",
+    "releaseYear": 2008,
+    "chronologicalYear": 2008,
+    "releaseOrder": 1,
+    "chronologicalOrder": 3,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "The Incredible Hulk",
+    "releaseYear": 2008,
+    "chronologicalYear": 2011,
+    "releaseOrder": 2,
+    "chronologicalOrder": 5,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Iron Man 2",
+    "releaseYear": 2010,
+    "chronologicalYear": 2010,
+    "releaseOrder": 3,
+    "chronologicalOrder": 4,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Thor",
+    "releaseYear": 2011,
+    "chronologicalYear": 2011,
+    "releaseOrder": 4,
+    "chronologicalOrder": 6,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Captain America: The First Avenger",
+    "releaseYear": 2011,
+    "chronologicalYear": 1942,
+    "releaseOrder": 5,
+    "chronologicalOrder": 1,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "The Avengers",
+    "releaseYear": 2012,
+    "chronologicalYear": 2012,
+    "releaseOrder": 6,
+    "chronologicalOrder": 7,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Iron Man 3",
+    "releaseYear": 2013,
+    "chronologicalYear": 2012,
+    "releaseOrder": 7,
+    "chronologicalOrder": 8,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Thor: The Dark World",
+    "releaseYear": 2013,
+    "chronologicalYear": 2013,
+    "releaseOrder": 8,
+    "chronologicalOrder": 9,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Captain America: The Winter Soldier",
+    "releaseYear": 2014,
+    "chronologicalYear": 2014,
+    "releaseOrder": 9,
+    "chronologicalOrder": 10,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Guardians of the Galaxy",
+    "releaseYear": 2014,
+    "chronologicalYear": 2014,
+    "releaseOrder": 10,
+    "chronologicalOrder": 11,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Avengers: Age of Ultron",
+    "releaseYear": 2015,
+    "chronologicalYear": 2015,
+    "releaseOrder": 11,
+    "chronologicalOrder": 13,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Ant Man",
+    "releaseYear": 2015,
+    "chronologicalYear": 2015,
+    "releaseOrder": 12,
+    "chronologicalOrder": 14,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Captain America: Civil War",
+    "releaseYear": 2016,
+    "chronologicalYear": 2016,
+    "releaseOrder": 13,
+    "chronologicalOrder": 15,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Doctor Strng",
+    "releaseYear": 2016,
+    "chronologicalYear": 2017,
+    "releaseOrder": 14,
+    "chronologicalOrder": 18,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Guardians of the Galaxy, Vol. 2",
+    "releaseYear": 2017,
+    "chronologicalYear": 2014,
+    "releaseOrder": 15,
+    "chronologicalOrder": 12,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Spider-Man: Homecoming",
+    "releaseYear": 2017,
+    "chronologicalYear": 2016,
+    "releaseOrder": 16,
+    "chronologicalOrder": 17,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Thor: Ragnarok",
+    "releaseYear": 2017,
+    "chronologicalYear": 2017,
+    "releaseOrder": 17,
+    "chronologicalOrder": 20,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Black Panther",
+    "releaseYear": 2018,
+    "chronologicalYear": 2017,
+    "releaseOrder": 18,
+    "chronologicalOrder": 19,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Avengers: Infinity War",
+    "releaseYear": 2018,
+    "chronologicalYear": 2017,
+    "releaseOrder": 19,
+    "chronologicalOrder": 21,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Ant Man & The Wasp",
+    "releaseYear": 2018,
+    "chronologicalYear": 2017,
+    "releaseOrder": 20,
+    "chronologicalOrder": 22,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Captain Marvel",
+    "releaseYear": 2019,
+    "chronologicalYear": 1995,
+    "releaseOrder": 21,
+    "chronologicalOrder": 2,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Avengers: Endgame",
+    "releaseYear": 2019,
+    "chronologicalYear": 2022,
+    "releaseOrder": 22,
+    "chronologicalOrder": 23,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Spider-Man: Far From Home",
+    "releaseYear": 2019,
+    "chronologicalYear": 2023,
+    "releaseOrder": 23,
+    "chronologicalOrder": 24,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Black Widow",
+    "releaseYear": 2021,
+    "chronologicalYear": 2016,
+    "releaseOrder": 24,
+    "chronologicalOrder": 16,
+    "rating": 10,
+    "tags": [""]
+},
+{
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "releaseYear": 2021,
+    "chronologicalYear": 2023,
+    "releaseOrder": 25,
+    "chronologicalOrder": 25,
+    "rating": 10,
+    "tags": [""]
+}]
