@@ -1,4 +1,4 @@
-import { TableCell, TableRow } from '@mui/material'
+import { Avatar, Chip, TableCell, TableRow } from '@mui/material'
 import { Movie } from './MovieTable'
 
 export interface MovieTableRowProps {
@@ -13,7 +13,7 @@ export interface MovieTableRowProps {
    - Release Order
    - Chronological Order
    - Rating
-   - Tags */
+   - topCast */
 function MovieTableRow({ movie }: MovieTableRowProps) {
     return (
         <TableRow>
@@ -23,7 +23,21 @@ function MovieTableRow({ movie }: MovieTableRowProps) {
             <TableCell>{movie.releaseOrder}</TableCell>
             <TableCell>{movie.chronologicalOrder}</TableCell>
             <TableCell>{movie.rating}</TableCell>
-            <TableCell>{movie.tags}</TableCell>
+            <TableCell>
+                {
+                    movie.topCast.length > 0 ?
+                        movie.topCast.map(char =>
+                            <Chip
+                                size="small"
+                                label={char}
+                                avatar={<Avatar>{char[0]}</Avatar>}
+                                style={{ margin: "2px" }}
+                            />
+                        )
+                        :
+                        null
+                }
+            </TableCell>
         </TableRow>
     )
 }

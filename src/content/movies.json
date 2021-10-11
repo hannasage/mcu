@@ -1,225 +1,414 @@
-[{
-    "title": "Iron Man",
-    "releaseYear": 2008,
-    "chronologicalYear": 2008,
-    "releaseOrder": 1,
-    "chronologicalOrder": 3,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "The Incredible Hulk",
-    "releaseYear": 2008,
-    "chronologicalYear": 2011,
-    "releaseOrder": 2,
-    "chronologicalOrder": 5,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Iron Man 2",
-    "releaseYear": 2010,
-    "chronologicalYear": 2010,
-    "releaseOrder": 3,
-    "chronologicalOrder": 4,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Thor",
-    "releaseYear": 2011,
-    "chronologicalYear": 2011,
-    "releaseOrder": 4,
-    "chronologicalOrder": 6,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Captain America: The First Avenger",
-    "releaseYear": 2011,
-    "chronologicalYear": 1942,
-    "releaseOrder": 5,
-    "chronologicalOrder": 1,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "The Avengers",
-    "releaseYear": 2012,
-    "chronologicalYear": 2012,
-    "releaseOrder": 6,
-    "chronologicalOrder": 7,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Iron Man 3",
-    "releaseYear": 2013,
-    "chronologicalYear": 2012,
-    "releaseOrder": 7,
-    "chronologicalOrder": 8,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Thor: The Dark World",
-    "releaseYear": 2013,
-    "chronologicalYear": 2013,
-    "releaseOrder": 8,
-    "chronologicalOrder": 9,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Captain America: The Winter Soldier",
-    "releaseYear": 2014,
-    "chronologicalYear": 2014,
-    "releaseOrder": 9,
-    "chronologicalOrder": 10,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Guardians of the Galaxy",
-    "releaseYear": 2014,
-    "chronologicalYear": 2014,
-    "releaseOrder": 10,
-    "chronologicalOrder": 11,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Avengers: Age of Ultron",
-    "releaseYear": 2015,
-    "chronologicalYear": 2015,
-    "releaseOrder": 11,
-    "chronologicalOrder": 13,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Ant Man",
-    "releaseYear": 2015,
-    "chronologicalYear": 2015,
-    "releaseOrder": 12,
-    "chronologicalOrder": 14,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Captain America: Civil War",
-    "releaseYear": 2016,
-    "chronologicalYear": 2016,
-    "releaseOrder": 13,
-    "chronologicalOrder": 15,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Doctor Strng",
-    "releaseYear": 2016,
-    "chronologicalYear": 2017,
-    "releaseOrder": 14,
-    "chronologicalOrder": 18,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Guardians of the Galaxy, Vol. 2",
-    "releaseYear": 2017,
-    "chronologicalYear": 2014,
-    "releaseOrder": 15,
-    "chronologicalOrder": 12,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Spider-Man: Homecoming",
-    "releaseYear": 2017,
-    "chronologicalYear": 2016,
-    "releaseOrder": 16,
-    "chronologicalOrder": 17,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Thor: Ragnarok",
-    "releaseYear": 2017,
-    "chronologicalYear": 2017,
-    "releaseOrder": 17,
-    "chronologicalOrder": 20,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Black Panther",
-    "releaseYear": 2018,
-    "chronologicalYear": 2017,
-    "releaseOrder": 18,
-    "chronologicalOrder": 19,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Avengers: Infinity War",
-    "releaseYear": 2018,
-    "chronologicalYear": 2017,
-    "releaseOrder": 19,
-    "chronologicalOrder": 21,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Ant Man & The Wasp",
-    "releaseYear": 2018,
-    "chronologicalYear": 2017,
-    "releaseOrder": 20,
-    "chronologicalOrder": 22,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Captain Marvel",
-    "releaseYear": 2019,
-    "chronologicalYear": 1995,
-    "releaseOrder": 21,
-    "chronologicalOrder": 2,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Avengers: Endgame",
-    "releaseYear": 2019,
-    "chronologicalYear": 2022,
-    "releaseOrder": 22,
-    "chronologicalOrder": 23,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Spider-Man: Far From Home",
-    "releaseYear": 2019,
-    "chronologicalYear": 2023,
-    "releaseOrder": 23,
-    "chronologicalOrder": 24,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Black Widow",
-    "releaseYear": 2021,
-    "chronologicalYear": 2016,
-    "releaseOrder": 24,
-    "chronologicalOrder": 16,
-    "rating": 10,
-    "tags": [""]
-},
-{
-    "title": "Shang-Chi and the Legend of the Ten Rings",
-    "releaseYear": 2021,
-    "chronologicalYear": 2023,
-    "releaseOrder": 25,
-    "chronologicalOrder": 25,
-    "rating": 10,
-    "tags": [""]
-}]
+[
+    {
+        "title": "Iron Man",
+        "releaseYear": 2008,
+        "chronologicalYear": 2008,
+        "releaseOrder": 1,
+        "chronologicalOrder": 3,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "Nick Fury"
+        ]
+    },
+    {
+        "title": "The Incredible Hulk",
+        "releaseYear": 2008,
+        "chronologicalYear": 2011,
+        "releaseOrder": 2,
+        "chronologicalOrder": 5,
+        "rating": 10,
+        "topCast": [
+            "Bruce Banner"
+        ]
+    },
+    {
+        "title": "Iron Man 2",
+        "releaseYear": 2010,
+        "chronologicalYear": 2010,
+        "releaseOrder": 3,
+        "chronologicalOrder": 4,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "James Rhodes",
+            "Nick Fury",
+            "Black Widow"
+        ]
+    },
+    {
+        "title": "Thor",
+        "releaseYear": 2011,
+        "chronologicalYear": 2011,
+        "releaseOrder": 4,
+        "chronologicalOrder": 6,
+        "rating": 10,
+        "topCast": [
+            "Thor",
+            "Loki",
+            "Jane Foster",
+            "Hawkeye"
+        ]
+    },
+    {
+        "title": "Captain America: The First Avenger",
+        "releaseYear": 2011,
+        "chronologicalYear": 1942,
+        "releaseOrder": 5,
+        "chronologicalOrder": 1,
+        "rating": 10,
+        "topCast": [
+            "Steve Rogers",
+            "Nick Fury",
+            "Bucky Barnes"
+        ]
+    },
+    {
+        "title": "The Avengers",
+        "releaseYear": 2012,
+        "chronologicalYear": 2012,
+        "releaseOrder": 6,
+        "chronologicalOrder": 7,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "Steve Rogers",
+            "Black Widow",
+            "Hawkeye",
+            "Bruce Banner",
+            "Thor",
+            "Loki",
+            "Nick Fury",
+            "Thanos"
+        ]
+    },
+    {
+        "title": "Iron Man 3",
+        "releaseYear": 2013,
+        "chronologicalYear": 2012,
+        "releaseOrder": 7,
+        "chronologicalOrder": 8,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "James Rhodes"
+        ]
+    },
+    {
+        "title": "Thor: The Dark World",
+        "releaseYear": 2013,
+        "chronologicalYear": 2013,
+        "releaseOrder": 8,
+        "chronologicalOrder": 9,
+        "rating": 10,
+        "topCast": [
+            "Thor",
+            "Jane Foster",
+            "Loki"
+        ]
+    },
+    {
+        "title": "Captain America: The Winter Soldier",
+        "releaseYear": 2014,
+        "chronologicalYear": 2014,
+        "releaseOrder": 9,
+        "chronologicalOrder": 10,
+        "rating": 10,
+        "topCast": [
+            "Steve Rogers",
+            "Nick Fury",
+            "Black Widow",
+            "Bucky Barnes",
+            "Sam Wilson",
+            "Sharon Carter"
+        ]
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "releaseYear": 2014,
+        "chronologicalYear": 2014,
+        "releaseOrder": 10,
+        "chronologicalOrder": 11,
+        "rating": 10,
+        "topCast": [
+            "Starlord",
+            "Groot",
+            "Rocket",
+            "Gamora",
+            "Drax",
+            "Nebula"
+        ]
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "releaseYear": 2015,
+        "chronologicalYear": 2015,
+        "releaseOrder": 11,
+        "chronologicalOrder": 13,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "Steve Rogers",
+            "Bruce Banner",
+            "Thor",
+            "Black Widow",
+            "Hawkeye",
+            "Ultron",
+            "Nick Fury",
+            "James Rhodes",
+            "Wanda Maximoff",
+            "Sam Wilson",
+            "Vision"
+        ]
+    },
+    {
+        "title": "Ant Man",
+        "releaseYear": 2015,
+        "chronologicalYear": 2015,
+        "releaseOrder": 12,
+        "chronologicalOrder": 14,
+        "rating": 10,
+        "topCast": [
+            "Scott Lang",
+            "Hank Pym",
+            "Hope Van Dyne",
+            "Sam Wilson"
+        ]
+    },
+    {
+        "title": "Captain America: Civil War",
+        "releaseYear": 2016,
+        "chronologicalYear": 2016,
+        "releaseOrder": 13,
+        "chronologicalOrder": 15,
+        "rating": 10,
+        "topCast": [
+            "Steve Rogers",
+            "Tony Stark",
+            "Black Widow",
+            "Bucky Barnes",
+            "Sam Wilson",
+            "James Rhodes",
+            "Hawkeye",
+            "T'Challa",
+            "Vision",
+            "Wanda Maximoff",
+            "Sharon Carter",
+            "Peter Parker",
+            "Zemo"
+        ]
+    },
+    {
+        "title": "Doctor Strange",
+        "releaseYear": 2016,
+        "chronologicalYear": 2017,
+        "releaseOrder": 14,
+        "chronologicalOrder": 18,
+        "rating": 10,
+        "topCast": [
+            "Doctor Strange",
+            "Mordo",
+            "Wong",
+            "The Ancient One"
+        ]
+    },
+    {
+        "title": "Guardians of the Galaxy, Vol. 2",
+        "releaseYear": 2017,
+        "chronologicalYear": 2014,
+        "releaseOrder": 15,
+        "chronologicalOrder": 12,
+        "rating": 10,
+        "topCast": [
+            "Starlord",
+            "Gamora",
+            "Drax",
+            "Groot",
+            "Rocket",
+            "Nebula",
+            "Mantis"
+        ]
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "releaseYear": 2017,
+        "chronologicalYear": 2016,
+        "releaseOrder": 16,
+        "chronologicalOrder": 17,
+        "rating": 10,
+        "topCast": [
+            "Peter Parker",
+            "Tony Stark"
+        ]
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "releaseYear": 2017,
+        "chronologicalYear": 2017,
+        "releaseOrder": 17,
+        "chronologicalOrder": 20,
+        "rating": 10,
+        "topCast": [
+            "Thor",
+            "Loki",
+            "Bruce Banner",
+            "Valkyrie",
+            "Korg",
+            "Doctor Strange"
+        ]
+    },
+    {
+        "title": "Black Panther",
+        "releaseYear": 2018,
+        "chronologicalYear": 2017,
+        "releaseOrder": 18,
+        "chronologicalOrder": 19,
+        "rating": 10,
+        "topCast": [
+            "T'Challa",
+            "Killmonger",
+            "Nakia",
+            "Shuri",
+            "Okoye",
+            "Ayo"
+        ]
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "releaseYear": 2018,
+        "chronologicalYear": 2017,
+        "releaseOrder": 19,
+        "chronologicalOrder": 21,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "Thor",
+            "Bruce Banner",
+            "Steve Rogers",
+            "Black Widow",
+            "James Rhodes",
+            "Doctor Strange",
+            "Peter Parker",
+            "T'Challa",
+            "Gamora",
+            "Nebula",
+            "Loki",
+            "Vision",
+            "Wanda Maximoff",
+            "Sam Wilson",
+            "Bucky Barnes",
+            "Okoye",
+            "Wong",
+            "Mantis",
+            "Drax",
+            "Groot",
+            "Rocket",
+            "Thanos",
+            "Shuri",
+            "Ayo"
+        ]
+    },
+    {
+        "title": "Ant Man & The Wasp",
+        "releaseYear": 2018,
+        "chronologicalYear": 2017,
+        "releaseOrder": 20,
+        "chronologicalOrder": 22,
+        "rating": 10,
+        "topCast": [
+            "Scott Lang",
+            "Hope Van Dyne",
+            "Hank Pym"
+        ]
+    },
+    {
+        "title": "Captain Marvel",
+        "releaseYear": 2019,
+        "chronologicalYear": 1995,
+        "releaseOrder": 21,
+        "chronologicalOrder": 2,
+        "rating": 10,
+        "topCast": [
+            "Carol Danvers",
+            "Nick Fury",
+            "Maria Rambeau",
+            "Monica Rambeau"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "releaseYear": 2019,
+        "chronologicalYear": 2022,
+        "releaseOrder": 22,
+        "chronologicalOrder": 23,
+        "rating": 10,
+        "topCast": [
+            "Tony Stark",
+            "Steve Rogers",
+            "Bruce Banner",
+            "Thor",
+            "Black Widow",
+            "Hawkeye",
+            "James Rhodes",
+            "Scott Lang",
+            "Doctor Strange",
+            "T'Challa",
+            "Carol Danvers",
+            "Peter Parker",
+            "Nebula",
+            "Gamora",
+            "Hope Van Dyne",
+            "Valkyrie",
+            "Wanda Maximoff",
+            "Sam Wilson",
+            "Bucky Barnes",
+            "Loki",
+            "Okoye",
+            "Wong",
+            "Mantis",
+            "Drax",
+            "Shuri",
+            "The Ancient One",
+            "Korg",
+            "Thanos",
+            "Nick Fury"
+        ]
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "releaseYear": 2019,
+        "chronologicalYear": 2023,
+        "releaseOrder": 23,
+        "chronologicalOrder": 24,
+        "rating": 10,
+        "topCast": [
+            "Peter Parker",
+            "Nick Fury",
+            "Mysterio"
+        ]
+    },
+    {
+        "title": "Black Widow",
+        "releaseYear": 2021,
+        "chronologicalYear": 2016,
+        "releaseOrder": 24,
+        "chronologicalOrder": 16,
+        "rating": 10,
+        "topCast": [
+            "Black Widow",
+            "Yelena Belova"
+        ]
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "releaseYear": 2021,
+        "chronologicalYear": 2023,
+        "releaseOrder": 25,
+        "chronologicalOrder": 25,
+        "rating": 10,
+        "topCast": [
+            "Shang-Chi",
+            "Wenwu"
+        ]
+    }
+]

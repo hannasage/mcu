@@ -10,7 +10,7 @@ export interface Movie {
     releaseOrder: number,
     chronologicalOrder: number,
     rating: number,
-    tags: string[]
+    topCast: string[]
 }
 
 function MovieTable() {
@@ -27,7 +27,7 @@ function MovieTable() {
                             <TableCell>Release Order</TableCell>
                             <TableCell>Chronological Order</TableCell>
                             <TableCell>Rating</TableCell>
-                            <TableCell>Tags</TableCell>
+                            <TableCell>Main Cast</TableCell>
                         </TableRow>
                     </TableHead>
                     <TableBody>
