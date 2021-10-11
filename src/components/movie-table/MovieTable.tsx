@@ -1,7 +1,6 @@
 import { Paper, Table, TableBody, TableContainer, TableHead, TableRow, TableCell } from '@mui/material'
 import movies from '../../content/movies.json'
 import MovieTableRow from './MovieTableRow'
-import './Table.css'
 
 export interface Movie {
     title: string,
@@ -31,7 +30,7 @@ function MovieTable() {
                         </TableRow>
                     </TableHead>
                     <TableBody>
-                        {movies.map(movie => <MovieTableRow movie={movie} />)}
+                        {movies.map(movie => <MovieTableRow movie={movie} key={movie.title} />)}
                     </TableBody>
                 </Table>
             </TableContainer>

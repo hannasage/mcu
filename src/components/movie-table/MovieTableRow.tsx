@@ -28,6 +28,7 @@ function MovieTableRow({ movie }: MovieTableRowProps) {
                     movie.topCast.length > 0 ?
                         movie.topCast.map(char =>
                             <Chip
+                                key={char}
                                 size="small"
                                 label={char}
                                 avatar={<Avatar>{char[0]}</Avatar>}
