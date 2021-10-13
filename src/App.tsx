@@ -1,19 +1,22 @@
 import { Grid } from '@mui/material';
-import Header from './components/header/Header';
 import Home from './pages/Home';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Navbar from './components/nav-bar/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      <Grid container>
-        <Grid item xs={12}>
-          <Header />
+    <Router>
+      <div className="h-screen">
+        <Grid container>
+          <Grid item md={2}>
+            <Navbar className="static" />
+          </Grid>
+          <Grid item md={10}>
+            <Home />
+          </Grid>
         </Grid>
-        <Grid item xs={12}>
-          <Home />
-        </Grid>
-      </Grid>
-    </div>
+      </div>
+    </Router>
   );
 }
 
